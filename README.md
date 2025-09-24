@@ -91,9 +91,9 @@ _(https://user-board-jayakumar.netlify.app/)_
 
 ##  ScreenShots
 
-![Dashboard Screenshot](/assets/User-Dashboard.jpg)
-![Add User Screenshot](/public/User-Dashboard-AddUser.jpg)
-![Filter Screenshot](/public/User-Dashboard-Filter.jpg)
+![Dashboard Screenshot](./src/assets/images/User-Dashboard.jpg)
+![Dashboard Screenshot](./src/assets/images/User-Dashboard-AddUser.jpg.jpg)
+![Dashboard Screenshot](./src/assets/images/User-Dashboard-Filter.jpg)
 
 ---
 

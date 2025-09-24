@@ -83,7 +83,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🌐 Demo
 
-_[Add deployment link here]_
+_[\[Add deployment link here\]](https://user-board-jayakumar.netlify.app/)_
 
 ---
 

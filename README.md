@@ -87,16 +87,6 @@ _(https://user-board-jayakumar.netlify.app/)_
 
 ---
 
----
-
-##  ScreenShots
-
-![Dashboard Screenshot](./src/assets/images/User-Dashboard.jpg)
-![Dashboard Screenshot](./src/assets/images/User-Dashboard-AddUser.jpg.jpg)
-![Dashboard Screenshot](./src/assets/images/User-Dashboard-Filter.jpg)
-
----
-
 ## 🤝 Author
 
 **Jayakumar S**  

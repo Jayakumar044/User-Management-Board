@@ -91,11 +91,9 @@ _(https://user-board-jayakumar.netlify.app/)_
 
 ##  ScreenShots
 
-![Dashboard Screenshot](./src/assets/User-Dashboard.jpg)
-![Dashboard Screenshot](./src/assets/User-Dashboard-AddUser.jpg)
-![Dashboard Screenshot](./src/assets/User-Dashboard-Filter.jpg)
-
-
+![Dashboard Screenshot](src/assets/User-Dashboard.jpg)
+![Add User Screenshot](src/assets/User-Dashboard-AddUser.jpg)
+![Filter Screenshot](src/assets/User-Dashboard-Filter.jpg)
 
 ---
 
